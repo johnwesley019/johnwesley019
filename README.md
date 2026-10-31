@@ -26,4 +26,4 @@ Acompanhe minhas análises e artigos institucionais sobre governança, mercado i
 
 ⁠• **Artigos e Publicações (Medium):** [Acesse os Artigos de Autoridade](https://medium.com/@johnwesleygoncalves)⁠
 
-* **Central de Links (Linktree):** [linktr.ee/johnwesley019](https://linktr.ee/johnwesley019)
+• **Central de Links (Linktree):** [linktr.ee/johnwesley019](https://linktr.ee/johnwesley019)
