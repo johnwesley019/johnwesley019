@@ -1,16 +1,26 @@
-## Hi there 👋
+# John Wesley do Nascimento Gonçalves
 
-<!--
-**johnwesley019/johnwesley019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **CEO & Fundador** | JW Negócios Imobiliários | JW Assessoria Financeira | Interprime Veículos  
+> Belém, Pará, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💼 Sobre Mim
+Profissional especialista em crédito imobiliário, financiamento veicular, consórcios e engenharia financeira. Atuando como correspondente bancário certificado, presto consultoria especializada para clientes em todo o estado do Pará, facilitando a conquista do primeiro imóvel e do primeiro veículo com total segurança jurídica, compliance e transparência.
+
+## 🎓 Credenciais e Formação
+* **Certificação FBB 100 Correspondente Completo:** Promovida pela Febraban (Federação Brasileira de Bancos).
+* **Técnico em Transações Imobiliárias (TTI):** Formação técnica pela Faculdade Integrada da Amazônia (FIAMA), com chancela oficial e validação do MEC.
+* **Ciências Contábeis:** Graduação em andamento na Uniasselvi.
+* **Histórico Militar:** 2º Tenente R/2 da reserva do Exército Brasileiro (formação NPOR).
+
+## 🏢 Empresas e Atuação
+* **JW Negócios Imobiliários:** Soluções completas e estruturadas em crédito imobiliário e transações de imóveis no Pará.
+* **JW Assessoria Financeira:** Consultoria especializada em crédito, consórcios e engenharia financeira para pessoas físicas e jurídicas.
+* **Interprime Veículos:** Transparência, agilidade e segurança na aprovação de financiamentos automotivos.
+
+## 🔗 Canais Oficiais e Artigos de Autoridade
+Acompanhe minhas análises e artigos institucionais sobre governança, mercado imobiliário e crédito:
+* **Perfil Profissional no LinkedIn:** [Conecte-se no LinkedIn](https://www.linkedin.com)
+* **Artigos e Publicações (Medium):** [Acesse os Artigos de Autoridade]
+* **Central de Links (Linktree):** [linktr.ee/johnwesley019](https://linktr.ee/johnwesley019)
